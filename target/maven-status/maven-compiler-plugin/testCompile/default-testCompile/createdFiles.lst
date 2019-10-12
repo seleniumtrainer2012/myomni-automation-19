@@ -1,0 +1,5 @@
+util\DataReader.class
+util\ExtentManager.class
+basetest\BaseTest.class
+testcases\Login.class
+testcases\Register.class

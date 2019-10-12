@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 59.84 sec <<< FAILURE! - in TestSuite
+NewUserRegistration(testcases.Register)  Time elapsed: 22.533 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at testcases.Register.NewUserRegistration(Register.java:43)
+
